@@ -69,11 +69,6 @@ Recent studies highlight the use of Graph Neural Networks (GNNs) and other AI mo
 
 ---
 
-## P.S. (Paid task) 
-If you need the rest of the documentation or the complete paper, please feel free to email me at [thenomaniqbal@gmail.com](mailto:thenomaniqbal@gmail.com).  
-
-This project is part of my GitHub directory. Contributions and feedback are always welcome!
-
 ---
 ## 
  <a href="https://github.com/thenomaniqbal/Traffic-flow-prediction/">
